@@ -7,6 +7,8 @@ A small npm module that logs `Hello World!` to the console when run.
 
 ## Usage
 
+`npm install --save gci-hello`
+
     const hw = require('gci-hello')
     
     hw() // Logs "Hello World!"
