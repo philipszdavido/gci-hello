@@ -1,3 +1,3 @@
-const hello = () => console.log('Hello World!')
+const helloWorld = () => console.log('Hello World!')
 
-module.exports = hello
+module.exports = helloWorld
