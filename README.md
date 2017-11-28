@@ -1,6 +1,6 @@
 # GCI-Hello World
 
-A npm module that logs `Hello World!` to the console.
+An npm module that logs `Hello World!` to the console.
 
 ## Installation
 ```sh
@@ -8,10 +8,10 @@ npm install gci-hello --save
 ```
 
 ## Usage
-```sh
-    const helloworld = require('gci-hello');
+```js
+const helloworld = require('gci-hello');
     
-    helloworld(); // Logs "Hello World!"
+helloworld(); // Logs "Hello World!"
 ```
 ## Why
 
